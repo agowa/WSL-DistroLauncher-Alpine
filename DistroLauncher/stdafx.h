@@ -54,6 +54,6 @@
 // Message strings compiled from .MC file.
 #include "messages.h"
 
-namespace fs = std::experimental::filesystem;
+namespace fs = std::filesystem;
 
 #endif
